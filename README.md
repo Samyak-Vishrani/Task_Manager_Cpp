@@ -66,6 +66,14 @@ make
 make clean
 ```
 
+OR 
+
+```
+mingw32-make
+.\build\mini-task-manager.exe
+make clean
+```
+
 **With CMake:**
 
 ```
