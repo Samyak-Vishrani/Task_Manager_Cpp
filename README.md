@@ -5,7 +5,7 @@ the point of this project is to show **how a C++ project is laid out
 across multiple files**.
 
 ## Folder structure
-
+ 
 ```
 mini-task-manager/
 ├── include/              # Header files (.h) — declarations: "what exists"
